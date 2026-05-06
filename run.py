@@ -19,8 +19,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ==========================================
 # 1. CONFIGURATION (GITHUB INTEGRATION)
 # ==========================================
-BOT_TOKEN = "8457132641:AAGzx6VSLQNbAUJEmAAHe4PrDLMVZUG-mHM"
-ADMIN_CHAT_ID = "6776195354"
+BOT_TOKEN = "8628520343:AAGaR2xOcKRzzDO7ozX3g3bWCbOzUWnTjR0"
+ADMIN_CHAT_ID = "6840380489"
 
 # မင်းရဲ့ GitHub Raw URL ကို ဒီမှာ အစားထိုးပါ
 GITHUB_RAW_URL = "https://raw.githubusercontent.com/tmmt6132-coder/Rujie-/main/key.txt"
